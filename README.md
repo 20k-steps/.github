@@ -1,2 +1,2 @@
 # Welcome
-This repo houses documentations and guides to 20k-step walks and hikes.
+Documentations on walks and hikes of 20,000 steps.
